@@ -2,3 +2,5 @@ requests
 google-cloud-bigquery
 google-cloud-pubsub
 pyyaml
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
