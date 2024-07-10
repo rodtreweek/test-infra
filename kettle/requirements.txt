@@ -2,3 +2,4 @@ requests
 google-cloud-bigquery
 google-cloud-pubsub
 pyyaml
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
